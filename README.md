@@ -28,4 +28,3 @@ this project was written in pure **python**
 2. Make sure main.py is in the current folder, then run python3 main.py
 
 3. Or, go for the **easy** way out and download the pre-made .exe file
-4. 
