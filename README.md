@@ -28,3 +28,7 @@ this project was written in pure **python**
 2. Make sure main.py is in the current folder, then run python3 main.py
 
 3. Or, go for the **easy** way out and download the pre-made .exe file
+
+## ⚠️ Connectivity Troubleshooting
+Windows Firewall: You must allow the application through the Windows Defender Firewall. If peers cannot see you, ensure Inbound Rules for ports 5556 and 5557 are active for "Private" networks.
+Subnet Issues: Peer discovery works strictly on the local subnet. If using a Virtual Machine, ensure your network adapter is set to Bridged Mode rather than NAT.
