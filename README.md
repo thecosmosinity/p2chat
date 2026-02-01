@@ -1,9 +1,10 @@
-# p2chat v1.1.9
+# p2chat
 
 **p2chat** is a secure, lightweight, peer-to-peer (P2P) chat utility designed for local networks. This version is specifically optimized for high-performance usage on modern Windows systems while maintaining a **640x480 hard-locked resolution** for CRT monitor compatibility and retro-aesthetic workflows.
 this project was written in pure **python**
 ---
-
+p2chat is encrypted using aes-128. unreadable to packet-sniffers, isp's and people trying to snoop through your chats. nothing leaves your machine. not even connecting to the web is required, as long as you're on the same wi-fi, whether no internet is provided, it will still work.
+---
 ## 🚀 Key Features
 
 * **End-to-End Encryption (E2EE):** All communication is secured using the Fernet (AES-128) specification. Encryption and decryption happen locally; plain text never leaves your machine.
