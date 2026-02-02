@@ -1,4 +1,7 @@
 # p2chat
+---
+IMPORTANT! - If your anti-virus says that this executable has been blocked by the firewall, do you want to enable it? You need to enable for the program to function! This is important for incoming and sending messages.
+---
 
 ## having windows defender errors? check out this detailed description about the error: [https://thecosmosinity.github.io/p2chat.html/](https://thecosmosinity.github.io/p2chat.html)
 
