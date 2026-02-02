@@ -1,6 +1,6 @@
 # p2chat
 
-## having windows defender errors? check out this detailed description about the error: https://thecosmosinity.github.io/p2chat.html/
+## having windows defender errors? check out this detailed description about the error: [https://thecosmosinity.github.io/p2chat.html/](https://thecosmosinity.github.io/p2chat.html)
 
 **p2chat** is a secure, lightweight, peer-to-peer (P2P) chat utility designed for local networks. This version is specifically optimized for high-performance usage on modern Windows systems while maintaining a **640x480 hard-locked resolution** for CRT monitor compatibility and retro-aesthetic workflows.
 this project was written in pure **python**
